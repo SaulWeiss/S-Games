@@ -1,9 +1,9 @@
 let balls = [];
 var t = 1;
 function setup() {
-  createCanvas(800, 500);
+  createCanvas(1000, 650);
   
-  for(let i = 0; i < 4000; i ++){
+  for(let i = 0; i < 6000; i ++){
     let w = random(75, 100);
     let x = random(width);
     let y = random(height);
