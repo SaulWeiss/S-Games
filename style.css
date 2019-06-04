@@ -19,14 +19,14 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: #ffffff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color: #1e9660;
+  background-color: #309f37;
 }
 
 .canvas {
