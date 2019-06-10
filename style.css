@@ -9,7 +9,6 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  /*overflow: hidden;*/
   background-color: #000000;
 }
 
@@ -28,6 +27,7 @@ li a {
 li a:hover {
   background-color: #309f37;
 }
+/*The drop down and navigation bar HTML and CSS came from W3 schools.*/
 .dropbtn {
   background-color: #000000;
   color: #ffffff;
